@@ -9,7 +9,6 @@
 ## Основные технологии:
 - Python 3.11
 - Pydantic
-- Pytest
 - openpyxl
 - aiohttp
 
